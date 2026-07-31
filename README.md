@@ -28,12 +28,6 @@ LeetCode-Java/
 ├── LinkedList/
 ├── Stack/
 ├── Queue/
-├── Trees/
-├── BinarySearch/
-├── DynamicProgramming/
-├── Graph/
-├── Greedy/
-├── Math/
 └── README.md
 ```
 
@@ -55,16 +49,6 @@ Each solution includes:
 - Stack
 - Queue
 - Linked List
-- Binary Trees
-- Binary Search Trees
-- Heaps (Priority Queue)
-- Binary Search
-- Recursion & Backtracking
-- Dynamic Programming
-- Graph Algorithms
-- Greedy Algorithms
-- Bit Manipulation
-- Math
 
 ---
 
